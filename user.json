@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Ajay",
+    "city": "Noida"
+  },
+  {
+    "id": 2,
+    "name": "Shivam",
+    "city": "Delhi"
+  },
+  {
+    "id": 3,
+    "name": "Vishal",
+    "city": "Delhi"
+  }
+]
